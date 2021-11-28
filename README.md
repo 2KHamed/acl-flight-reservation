@@ -1,3 +1,8 @@
+Lobna => get all and delete
+AHMED RIFKY => create 
+faress ahmed => update
+mohamed emarah => search
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
